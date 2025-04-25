@@ -25,4 +25,4 @@ This app lets you drag and drop an image of a clothing item, and it will tell yo
    
 2. Run the streamlit app:
    ```commandline
-   streamlit run main.py"# Clothing-Classification" 
+   streamlit run main.py  
